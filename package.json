@@ -1,0 +1,33 @@
+{
+	"name": "pigeon-browser-games",
+	"version": "0.0.0",
+	"description": "✨ BrowserGames by PIGEONPOSSE",
+	"type": "module",
+	"private": true,
+	"engines": {
+		"node": "^14.18.0 || >=16.0.0",
+		"pnpm": ">=3"
+	},
+	"bugs": {
+		"url": "https://github.com/pigeonposse/pigeon-browser-games/issues",
+		"email": "dev@pigeonposse.com"
+	},
+	"author": {
+		"name": "Angelo",
+		"email": "angelo@pigeonposse.com",
+		"url": "https://pigeonposse.com"
+	},
+	"license": {
+		"type": "GPL-3.0",
+		"url": "https://github.com/pigeonposse/pigeon-browser-games/LICENSE"
+	},
+	"funding": {
+		"type": "individual",
+		"url": "https://pigeonposse.com/?popup=donate"
+	},
+	"homepage": "https://pigeonposse.com/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pigeonposse/pigeon-browser-games"
+	}
+}
