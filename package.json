@@ -25,7 +25,7 @@
 		"type": "individual",
 		"url": "https://pigeonposse.com/?popup=donate"
 	},
-	"homepage": "https://pigeonposse.com/",
+	"homepage": "https://games.pigeonposse.com/",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/pigeonposse/pigeon-browser-games"
