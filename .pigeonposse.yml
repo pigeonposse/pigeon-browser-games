@@ -7,7 +7,9 @@ web:
   - id: "pigeon-games"
     name: Browser Games
     type: 
-      - browser-games
+      - web
+      - wpa
+      - browser-game
     version: "{{package.version}}"
     description: "{{package.description}}"
     homepage: "{{package.homepage}}"
