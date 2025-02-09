@@ -3,20 +3,15 @@
 ###############################################################################
 
 web:
-  
-  - id: "pigeon-games"
-    name: Browser Games
-    type: 
-      - web
-      - wpa
-      - browser-game
-    version: "{{package.version}}"
-    description: "{{package.description}}"
-    homepage: "{{package.homepage}}"
-    repo: "https://github.com/pigeonposse/{{package.name}}"
-    logo: "https://raw.githubusercontent.com/pigeonposse/{{package.name}}/main/logo.png"
-    banner: "https://raw.githubusercontent.com/pigeonposse/{{package.name}}/main/docs/banner.png"
-    status: "development"
-    
+  pigeon-games:
+    name: "Browser Games"
+    type:
+      - "web"
+      - "pwa"
+      - "desktop-app"
+      - "macos-app"
+      - "linux-app"
+      - "windows-app"
+    status: "abandoned"
 
 ###############################################################################
