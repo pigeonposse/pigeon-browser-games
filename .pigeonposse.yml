@@ -4,14 +4,15 @@
 
 web:
   pigeon-games:
-    name: "Browser Games"
+    name: Browser Games
+    desc: ✨ BrowserGames by PIGEONPOSSE
     type:
-      - "web"
-      - "pwa"
-      - "desktop-app"
-      - "macos-app"
-      - "linux-app"
-      - "windows-app"
-    status: "abandoned"
+      - web
+      - pwa
+      - desktop-app
+      - macos-app
+      - linux-app
+      - windows-app
+    status: abandoned
 
 ###############################################################################
